@@ -1,12 +1,4 @@
-<img width="1200" height="348" alt="ChatGPT Image 15 jun 2026, 08_29_12 a m" src="https://github.com/user-attachments/assets/480a3431-fbaa-41c3-8442-8be92d663053" />
-
-
-```text
-Pr0fEs0r-X @PrOfEs0r X
-Especialista en Seguridad Informatica
-Pentester since 1998 | Reverser | Malware Forensic — Ethical Form
-Creador del congreso X.25 Ethical Hacking Conferences — Mexico
-```
+<img width="1000" height="400" alt="ChatGPT Image 15 jun 2026, 08_29_12 a m" src="https://github.com/user-attachments/assets/480a3431-fbaa-41c3-8442-8be92d663053" />
 
 ---
 
