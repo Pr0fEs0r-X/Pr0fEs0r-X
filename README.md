@@ -42,15 +42,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pr0fEs0r-X&show_icons=true&theme=dark&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pr0fEs0r-X&theme=dark&ring_color=8b949e&fire_color=6e7681&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681&bg_color=0d1117&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pr0fEs0r-X&color=8b949e&style=flat-square&label=VISITAS" alt="Profile Views" />
 </div>
