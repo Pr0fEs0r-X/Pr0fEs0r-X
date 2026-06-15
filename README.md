@@ -1,4 +1,5 @@
-<img width="1000" height="400" alt="ChatGPT Image 15 jun 2026, 08_29_12 a m" src="https://github.com/user-attachments/assets/480a3431-fbaa-41c3-8442-8be92d663053" />
+<img width="1000" height="400" alt="header" src="https://github.com/user-attachments/assets/a4a5067b-c7f9-41a3-8a4c-1e63919adb0c" />
+
 
 ---
 ### Contacto
