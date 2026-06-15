@@ -1,4 +1,5 @@
-<img width="100%" src="https://raw.githubusercontent.com/Pr0fEs0r-X/Pr0fEs0r-X/main/header.png" alt="header" />
+<img width="1200" height="948" alt="ChatGPT Image 15 jun 2026, 08_29_12 a m" src="https://github.com/user-attachments/assets/480a3431-fbaa-41c3-8442-8be92d663053" />
+
 
 ```text
 Pr0fEs0r-X @PrOfEs0r X
