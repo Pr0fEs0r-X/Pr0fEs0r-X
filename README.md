@@ -19,8 +19,9 @@
 
 ---
 
-### Proyectos
-
+### 31 Proyectos Realizados checa REPOSITORIES
+---
+## Algunos proyectos..
 | Herramienta | Descripcion |
 |---|---|
 | [NetXcanner v1.0](https://github.com/Pr0fEs0r-X/NetXcanner-v-1.0) | Escaner de red para auditoria — descubre dispositivos conectados y muestra sus datos de identificacion |
