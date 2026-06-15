@@ -1,5 +1,6 @@
-<img width="1000" height="400" alt="header" src="https://github.com/user-attachments/assets/a4a5067b-c7f9-41a3-8a4c-1e63919adb0c" />
-
+<p align="center">
+  <img width="800" height="300" alt="header" src="https://github.com/user-attachments/assets/a4a5067b-c7f9-41a3-8a4c-1e63919adb0c" />
+</p>
 
 ---
 ### Contacto
