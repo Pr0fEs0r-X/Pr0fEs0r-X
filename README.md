@@ -1,6 +1,15 @@
 <img width="1000" height="400" alt="ChatGPT Image 15 jun 2026, 08_29_12 a m" src="https://github.com/user-attachments/assets/480a3431-fbaa-41c3-8442-8be92d663053" />
 
 ---
+### Contacto
+
+<p align="left">
+  <a href="https://github.com/Pr0fEs0r-X"><img src="https://img.shields.io/badge/GitHub-Pr0fEs0r--X-0d1117?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=21262d" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/rodolfo.hernandezbaz/"><img src="https://img.shields.io/badge/Facebook-Rodolfo%20Hernandez-0d1117?style=flat-square&logo=facebook&logoColor=1877F2&labelColor=21262d" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/rodolfohbaz/"><img src="https://img.shields.io/badge/LinkedIn-Rodolfo%20Hernandez-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=21262d" alt="LinkedIn" /></a>
+  <a href="https://rhinosecurity.xyz/"><img src="https://img.shields.io/badge/Rhino-Forensic%20%26%20Reverse%20Toolkit-0d1117?style=flat-square&logo=globe&logoColor=e8b84b&labelColor=21262d" alt="Rhino Forensic & Reverse Toolkit" /></a>
+</p>
+---
 
 ### Skills
 
@@ -41,12 +50,6 @@
 </p>
 
 ---
-
-### Contacto
-
-<p align="left">
-  <a href="https://github.com/Pr0fEs0r-X"><img src="https://img.shields.io/badge/GitHub-Pr0fEs0r--X-0d1117?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=21262d" alt="GitHub" /></a>
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pr0fEs0r-X&color=8b949e&style=flat-square&label=VISITAS" alt="Profile Views" />
